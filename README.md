@@ -1,7 +1,7 @@
 RaspberryCloud
 ==============
 
-A fully functioning command-line Dropbox client built using the Dropbox Python API for Raspberry Pi. Features include downloading entire directories as zip files, editing files in a local editor, uploading/downloading, and many many more!
+Dropbox for the Raspberry Pi! A fully functioning command-line Dropbox client built using the Dropbox Python API for Raspberry Pi. Features include downloading entire directories as zip files, editing files in a local editor, uploading/downloading, and many many more!
 
 Dependencies
 ============
@@ -11,6 +11,11 @@ You can get it by issuing this command:
 ```pip install dropbox```
 wget is also required. If you don't have it already, you can install it in Raspbian by entering this into the Terminal.
 ```apt-get install wget```
+
+Supported Systems
+=================
+
+Although it's only been tested on Ubuntu 12.04 and Raspbian, it should work on most operating systems, so long as they've installed the dependencies. However, it probably won't work on Windows since there is no support for Python curses.
 
 Commands
 ========
