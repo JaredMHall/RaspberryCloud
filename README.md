@@ -27,7 +27,7 @@ optional arguments:
   -h, --help  show this help message and exit
 
 rm ~ delete a file/folder
-usage: rm absolute_path_to_file_1 absolute_path_to_file_2 absolute_path_to_file_2 etc.
+usage: rm absolute_path_to_file_1 absolute_path_to_file_2 absolute_path_to_file_3 etc.
 example: rm /Random/Other /tps_report.txt
 optional arguments:
   -h, --help  show this help message and exit
