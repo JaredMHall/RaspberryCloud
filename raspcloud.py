@@ -1,6 +1,6 @@
 from __future__ import division
 import curses
-import uth
+# import uth 
 # Include the Dropbox SDK
 import dropbox
 import webbrowser
@@ -723,7 +723,7 @@ def start_raspberry_cloud(s):
            
         # download files to the ~/Downloads/RaspberryCloud folder by default (it will be created if it does not exist!)
         #     can be changed if you supply a different destination as an argument
-        def download_file(current_dir, file_to_download, client, download_loc=(expanduser("~") + "/Downloads/RasberryCloud")):
+        def download_file(current_dir, file_to_download, client, download_loc=(expanduser("~") + "/Downloads/RaspberryCloud")):
             # check and see if the path exists
             if not os.path.exists(download_loc):
                 # tell the system to create it
