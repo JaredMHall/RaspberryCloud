@@ -67,7 +67,7 @@ from os.path import expanduser
 #      on the homescreen of the app but here it is again. 
 #     
 #     Donate Bitcoin:
-#     19Ve bRAu 8ZdT zf7A JnJv dCyh qSBZ qMon T
+#     1AYk yF8P 1k19 NpAA xxEm WBa6 rp7g wgHz dr
 #
 #     Donate Dogecoin:
 #     DBGX4dwhD7SHhfcgzKjSZ2yJDhruAPgPUP
