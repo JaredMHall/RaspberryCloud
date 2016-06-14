@@ -1,6 +1,5 @@
 from __future__ import division
 import curses
-import uth
 # Include the Dropbox SDK
 import dropbox
 import webbrowser
