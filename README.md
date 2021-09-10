@@ -157,15 +157,3 @@ optional arguments:
   -h, --help  show this help message and exit
 note: Can't be used from within the Raspberry Cloud shell or bash shell.    
 ```
-
-Donate
-======
-
-Donate Bitcoin:
-19Ve bRAu 8ZdT zf7A JnJv dCyh qSBZ qMon T
-
-Donate Dogecoin:
-DBGX4dwhD7SHhfcgzKjSZ2yJDhruAPgPUP
-
-Donate via Paypal:
-http://bit.ly/1klxN1M
