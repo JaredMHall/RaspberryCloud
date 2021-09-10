@@ -3,8 +3,7 @@ RaspberryCloud
 
 Dropbox for Raspberry Pi! A fully functioning command-line Dropbox client built using the Dropbox Python API for Raspberry Pi. Features include downloading entire directories as zip files, editing files in a local editor, uploading/downloading, and many many more!
 
-Dependencies
-============
+## Dependencies
 
 This was written in Python 2.7 and requires the Dropbox module to work.
 You can get it by issuing this command:
@@ -12,13 +11,12 @@ You can get it by issuing this command:
 wget is also required. If you don't have it already, you can install it in Raspbian by entering this into the Terminal.
 ```apt-get install wget```
 
-Supported Systems
-=================
+## Supported Systems
 
 Although it's only been tested on Ubuntu 12.04 and Raspbian, it should work on most operating systems, so long as they've installed the dependencies. However, it probably won't work on Windows since there is no support for Python curses.
 
-Commands
-========
+## Commands
+
 ```
 mkdir ~ create a new folder
 usage: mkdir absolue_path_to_folder
